@@ -33,8 +33,8 @@ if str(getenv("STRING_SESSION5")).strip() == "":
 else:
     SESSION5 = str(getenv("STRING_SESSION5"))
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-BOT_NAME = getenv("BOT_NAME", "Umk")
+BOT_TOKEN = getenv("BOT_TOKEN", "5919328396:AAFRpPV0gMzUuCMWul5rxmAECMsSpEmQNmM")
+BOT_NAME = getenv("BOT_NAME", " 🖤🥀𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝙎 𝙎𝘼𝙍𝘼𝙃 🖤🥀")
 
 API_ID = int(getenv("API_ID", "8186557"))
 API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
@@ -49,7 +49,7 @@ GROUP_SUPPORT = getenv("GROUP_SUPPORT", "the_sumpport_chat")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "miss_u02")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("UPDATES_CHANNEL", "HEROKU_API_KEY")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5881100695").split()))
                                   
                                   
                              
