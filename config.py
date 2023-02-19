@@ -34,7 +34,7 @@ else:
     SESSION5 = str(getenv("STRING_SESSION5"))
 
 BOT_TOKEN = getenv("BOT_TOKEN", "5919328396:AAFRpPV0gMzUuCMWul5rxmAECMsSpEmQNmM")
-BOT_NAME = getenv("BOT_NAME", " 🖤🥀𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝙎 𝙎𝘼𝙍𝘼𝙃 🖤🥀")
+BOT_NAME = getenv("BOT_NAME", "◄⏤͟͟͞🪺⃝⃪ ⃪ͥ͢ ᷟ𝐈𝛕ᷟ͢𝚣⃪ꙴ❥𝆺꯭𝅥𝗔𝗬𝗨𝗦𝗛𝗜༎ࠫ𐎓⃝🥀─‌⃛⌤𝐱𝐃𝄗⃝❣")
 
 API_ID = int(getenv("API_ID", "8186557"))
 API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
